@@ -57,6 +57,12 @@ ul li {
 .university p:first-child {
     margin-right: 5px;
 }
+.my_contact {
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.7;
+}
 .list_skill {
     display: flex;
     justify-content: space-between;
